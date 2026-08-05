@@ -6,35 +6,60 @@ A machine learning project for predicting airline ticket prices using a Random F
 This project predicts flight ticket prices based on:
 
 -Airline
+
 -Source city
+
 -Destination city
+
 -Departure time
+
 -Arrival time
+
 -Number of stops
+
 -Flight class
+
 -Flight duration
+
 -Days left before departure
+
 -The project includes:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data preprocessing
+
 -Exploratory Data Analysis (EDA)
+
 -Model training
+
 -Hyperparameter tuning
+
 -FastAPI backend
+
 -Interactive HTML dashboard
 
+
 📂 Project Structure
+
 ├── api.py
+
 ├── flight.ipynb
+
 ├── flight-fare-dashboard.html
+
 ├── Clean_Dataset.csv
+
 ├── encoder.pkl
+
 ├── scaler.pkl
+
 ├── columns.pkl
+
 ├── .gitignore
+
 └── README.md
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🤖 Trained Model
 
@@ -45,7 +70,9 @@ Download it from Google Drive: https://drive.google.com/file/d/1TOlp7hE1HxxUyS1f
 After downloading:
 
 -Extract the ZIP file (if needed).
+
 -Place final_model.pkl in the project root directory (same folder as api.py).
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Run the API
 
@@ -73,18 +100,29 @@ Open:
 flight-fare-dashboard.html
 
 Enable Use Real Model and keep the API running to obtain predictions from the trained model.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠 Technologies
+
 -Python
+
 -Pandas
+
 -NumPy
+
 -Scikit-learn
+
 -FastAPI
+
 -HTML
+
 -CSS
+
 -JavaScript
+
 -Chart.js
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👥 The Team
 
