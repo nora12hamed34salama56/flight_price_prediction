@@ -1,22 +1,23 @@
 ✈️ Flight Price Prediction
-A machine learning project for predicting airline ticket prices using a Random Forest Regressor.
+A machine learning project for predicting airline ticket prices using a Random Forest Regres
+-----------------------------------------------------------------------------------------------------------------------------------
 
 📌 Project Overview
 
 This project predicts flight ticket prices based on:
 
-Airline
-Source city
-Destination city
-Departure time
-Arrival time
-Number of stops
-Flight class
-Flight duration
-Days left before departure
+1-Airline
+2-Source city
+3-Destination city
+4-Departure time
+5-Arrival time
+6-Number of stops
+7-Flight class
+8-Flight duration
+9-Days left before departure
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The project includes:
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data preprocessing
 Exploratory Data Analysis (EDA)
@@ -64,6 +65,7 @@ Open:
 
 flight-fare-dashboard.html
 Enable Use Real Model and keep the API running to obtain predictions from the trained model.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠 Technologies
 Python
