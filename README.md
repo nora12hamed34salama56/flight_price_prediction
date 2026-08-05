@@ -2,6 +2,7 @@
 A machine learning project for predicting airline ticket prices using a Random Forest Regressor.
 
 📌 Project Overview
+
 This project predicts flight ticket prices based on:
 
 Airline
@@ -14,6 +15,8 @@ Flight class
 Flight duration
 Days left before departure
 The project includes:
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data preprocessing
 Exploratory Data Analysis (EDA)
@@ -31,6 +34,7 @@ Interactive HTML dashboard
 ├── columns.pkl
 ├── .gitignore
 └── README.md
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🤖 Trained Model
 The trained model (final_model.pkl) is not included in this repository because it exceeds GitHub's file size limit.
 
@@ -40,6 +44,7 @@ After downloading:
 
 Extract the ZIP file (if needed).
 Place final_model.pkl in the project root directory (same folder as api.py).
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Run the API
 Install the required packages:
 
@@ -53,6 +58,7 @@ http://127.0.0.1:8000
 Swagger documentation:
 
 http://127.0.0.1:8000/docs
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌐 Dashboard
 Open:
 
@@ -69,6 +75,7 @@ HTML
 CSS
 JavaScript
 Chart.js
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👥 The Team
 | Farha Mohamed (Lead) | @farha-mohamed | LinkedIn |
 
